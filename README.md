@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Youssef Tayachi
 
-Azure Cloud Engineer Portfolio
 This GitHub profile serves as a portfolio showcasing practical Azure projects
 focused on serverless architectures, data pipelines, and cloud monitoring.
 
